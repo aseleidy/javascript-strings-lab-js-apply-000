@@ -86,6 +86,7 @@ In `index.js`, you'll see five lines of code:
 var greeting = "";
 
 var specialGuest = "Neil deGrasse Tyson"
+"Hello, " + specialGuest + "!"
 
 var greetSpecialGuest = "" + specialGuest + "!";
 
